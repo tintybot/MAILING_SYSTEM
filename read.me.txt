@@ -1,0 +1,5 @@
+Before you run this code:
+1.change the recipient list in recipients.txt
+2.put your mailing id and password inside the program
+3.enable access from your mailing site
+4.for other mailing sites than google, please the change the server and port number as per.
